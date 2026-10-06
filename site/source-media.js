@@ -20,11 +20,15 @@
         document.querySelectorAll('[data-source-quality]').forEach(el => {
           el.textContent = '原片预览，保留原音轨；无录屏。';
         });
-        video.addEventListener('loadedmetadata', () => {video.currentTime = time;}, {once: true});
+        video.addEventListener('loadedmetadata', () => {
+          if (!video.currentTime) video.currentTime = time;
+        }, {once: true});
         video.load();
       });
       video.src = source.url;
-      video.addEventListener('loadedmetadata', () => {video.currentTime = initialTime;}, {once: true});
+      video.addEventListener('loadedmetadata', () => {
+        if (!video.currentTime) video.currentTime = initialTime;
+      }, {once: true});
       video.load();
     }
     document.querySelectorAll('[data-source-quality]').forEach(el => {
