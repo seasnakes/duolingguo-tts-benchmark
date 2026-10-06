@@ -1,9 +1,11 @@
 # 多玲国 TTS 试听对比
 
-网页源文件在 site/。较大媒体保存为小块；GitHub Actions 自动还原、核验 SHA-256 并部署 GitHub Pages。
+[试听主页](https://seasnakes.github.io/duolingguo-tts-benchmark/) · [逐句原片对照](https://seasnakes.github.io/duolingguo-tts-benchmark/aligned.html)
 
-公开入口：https://seasnakes.github.io/duolingguo-tts-benchmark/
+网页源文件在 `site/`。GitHub Actions 还原并核验媒体文件后部署到 Pages。
 
-音频保留原始文件。原片为 720p 在线预览，本地原始 1080p 视频保留。
+完整 1080p 原片存放于飞书，已通过完整下载的 SHA-256 核验。网页优先使用飞书原片，每 6 小时刷新媒体链接；连接失败时切换至已打包的 720p 预览。音频保留完整原始样本。
 
-完整 1080p 原片存放于飞书。网页优先使用飞书原片，每 6 小时刷新临时媒体链接；连接失败时使用已打包的 720p 预览。密钥仅保存在 GitHub 部署环境 Secrets。
+飞书应用凭据仅保存在 GitHub 部署环境 Secrets，网页不包含应用凭据。
+
+原视频来源：[咪Mirror肉《多 玲 国》](https://www.bilibili.com/video/BV1Zmuk6kExf)。
