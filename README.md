@@ -1,10 +1,7 @@
-# 多玲国 · TTS 试听对比
+# 多玲国 TTS 试听对比
 
-ElevenLabs、MiniMax、Gemini 的多语种试听对比，以及 ElevenLabs 五角色情绪版。
+网页源文件在 site/。较大媒体保存为小块；GitHub Actions 自动还原、核验 SHA-256 并部署 GitHub Pages。
 
-- `index.html`：完整音频、BGM 切换、盲评与评分导出。
-- `aligned.html`：原片台词对照、逐句跳转与音源切换。
+公开入口：https://seasnakes.github.io/duolingguo-tts-benchmark/
 
-原视频来源：[咪Mirror肉《多 玲 国》](https://www.bilibili.com/video/BV1Zmuk6kExf)。评测范围与限制见 `evaluation.md`。
-
-GitHub Pages 从 main 分支根目录发布。评分只保存在访问者自己的浏览器。
+音频保留原始文件。原片为 720p 在线预览，本地原始 1080p 视频保留。

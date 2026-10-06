@@ -1,0 +1,2626 @@
+[
+  {
+    "start": 0,
+    "end": 25,
+    "language": "ja",
+    "text": "どなたをお探しですか?泥棒猫だわ。この会社の陳純正の愛人を探しているわ。すみません、あまり詳しくは。すみませんって?いいわ、じゃあ君だ。さ、出てきて。違います、奥様。人違いです、奥様。じゃあ誰が?言え。リンリンだと聞いていましたが。リンリンだね。いいわ、リンリン。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 1.74,
+        "text": "どなたをお探しですか?",
+        "tokens": [
+          50365,
+          7594,
+          42847,
+          5998,
+          6117,
+          6900,
+          95,
+          2849,
+          30913,
+          30,
+          50452
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "ど",
+            "start": 0.0,
+            "end": 0.36,
+            "probability": 0.63671875
+          },
+          {
+            "word": "なた",
+            "start": 0.36,
+            "end": 0.56,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "を",
+            "start": 0.56,
+            "end": 0.92,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "お",
+            "start": 0.92,
+            "end": 1.1,
+            "probability": 0.7158203125
+          },
+          {
+            "word": "探",
+            "start": 1.1,
+            "end": 1.26,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "し",
+            "start": 1.26,
+            "end": 1.4,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "ですか?",
+            "start": 1.4,
+            "end": 1.74,
+            "probability": 0.99365234375
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "seek": 0,
+        "start": 2.8600000000000008,
+        "end": 7.48,
+        "text": "泥棒猫だわ。この会社の陳純正の愛人を探しているわ。",
+        "tokens": [
+          50502,
+          6847,
+          98,
+          23514,
+          25266,
+          104,
+          5362,
+          9206,
+          1543,
+          13303,
+          12949,
+          27658,
+          2972,
+          45769,
+          7732,
+          242,
+          15789,
+          2972,
+          15157,
+          4035,
+          5998,
+          6900,
+          95,
+          8822,
+          22979,
+          9206,
+          1543,
+          50741
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "泥",
+            "start": 2.8600000000000008,
+            "end": 3.22,
+            "probability": 0.5546875
+          },
+          {
+            "word": "棒",
+            "start": 3.22,
+            "end": 3.4,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "猫",
+            "start": 3.4,
+            "end": 3.68,
+            "probability": 0.98291015625
+          },
+          {
+            "word": "だ",
+            "start": 3.68,
+            "end": 3.78,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "わ。",
+            "start": 3.78,
+            "end": 3.94,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "この",
+            "start": 4.4,
+            "end": 4.76,
+            "probability": 0.98291015625
+          },
+          {
+            "word": "会",
+            "start": 4.76,
+            "end": 5.02,
+            "probability": 1.0
+          },
+          {
+            "word": "社",
+            "start": 5.02,
+            "end": 5.16,
+            "probability": 1.0
+          },
+          {
+            "word": "の",
+            "start": 5.16,
+            "end": 5.34,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "陳",
+            "start": 5.34,
+            "end": 5.6,
+            "probability": 0.86083984375
+          },
+          {
+            "word": "純",
+            "start": 5.6,
+            "end": 5.9,
+            "probability": 0.75048828125
+          },
+          {
+            "word": "正",
+            "start": 5.9,
+            "end": 6.04,
+            "probability": 0.34033203125
+          },
+          {
+            "word": "の",
+            "start": 6.04,
+            "end": 6.2,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "愛",
+            "start": 6.2,
+            "end": 6.5,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "人",
+            "start": 6.5,
+            "end": 6.72,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "を",
+            "start": 6.72,
+            "end": 6.84,
+            "probability": 1.0
+          },
+          {
+            "word": "探",
+            "start": 6.84,
+            "end": 7.02,
+            "probability": 0.998046875
+          },
+          {
+            "word": "して",
+            "start": 7.02,
+            "end": 7.2,
+            "probability": 1.0
+          },
+          {
+            "word": "いる",
+            "start": 7.2,
+            "end": 7.34,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "わ。",
+            "start": 7.34,
+            "end": 7.48,
+            "probability": 0.99951171875
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "seek": 0,
+        "start": 8.4,
+        "end": 10.26,
+        "text": "すみません、あまり詳しくは。",
+        "tokens": [
+          50789,
+          2659,
+          11362,
+          30250,
+          1231,
+          3590,
+          41446,
+          6716,
+          111,
+          26568,
+          3065,
+          1543,
+          50880
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "す",
+            "start": 8.4,
+            "end": 8.76,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "み",
+            "start": 8.76,
+            "end": 8.92,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "ません、",
+            "start": 8.92,
+            "end": 9.16,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "あ",
+            "start": 9.32,
+            "end": 9.42,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "まり",
+            "start": 9.42,
+            "end": 9.6,
+            "probability": 1.0
+          },
+          {
+            "word": "詳",
+            "start": 9.6,
+            "end": 9.92,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "しく",
+            "start": 9.92,
+            "end": 10.1,
+            "probability": 1.0
+          },
+          {
+            "word": "は。",
+            "start": 10.1,
+            "end": 10.26,
+            "probability": 0.9990234375
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "seek": 0,
+        "start": 11.020000000000001,
+        "end": 14.7,
+        "text": "すみませんって?いいわ、じゃあ君だ。さ、出てきて。",
+        "tokens": [
+          50920,
+          2659,
+          11362,
+          30250,
+          6102,
+          30,
+          13806,
+          9206,
+          1231,
+          31284,
+          24168,
+          5362,
+          1543,
+          6722,
+          1231,
+          7781,
+          2996,
+          7016,
+          2996,
+          1543,
+          51102
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "す",
+            "start": 11.020000000000001,
+            "end": 11.38,
+            "probability": 0.994140625
+          },
+          {
+            "word": "み",
+            "start": 11.38,
+            "end": 11.58,
+            "probability": 1.0
+          },
+          {
+            "word": "ません",
+            "start": 11.58,
+            "end": 11.9,
+            "probability": 1.0
+          },
+          {
+            "word": "って?",
+            "start": 11.9,
+            "end": 12.16,
+            "probability": 0.998046875
+          },
+          {
+            "word": "いい",
+            "start": 12.66,
+            "end": 13.02,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "わ、",
+            "start": 13.02,
+            "end": 13.2,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "じゃあ",
+            "start": 13.28,
+            "end": 13.36,
+            "probability": 0.7998046875
+          },
+          {
+            "word": "君",
+            "start": 13.36,
+            "end": 13.62,
+            "probability": 0.90576171875
+          },
+          {
+            "word": "だ。",
+            "start": 13.62,
+            "end": 13.8,
+            "probability": 1.0
+          },
+          {
+            "word": "さ、",
+            "start": 14.0,
+            "end": 14.16,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "出",
+            "start": 14.34,
+            "end": 14.44,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "て",
+            "start": 14.44,
+            "end": 14.52,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "き",
+            "start": 14.52,
+            "end": 14.6,
+            "probability": 0.9384765625
+          },
+          {
+            "word": "て。",
+            "start": 14.6,
+            "end": 14.7,
+            "probability": 1.0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "seek": 0,
+        "start": 15.46,
+        "end": 17.64,
+        "text": "違います、奥様。人違いです、奥様。",
+        "tokens": [
+          51140,
+          31846,
+          11267,
+          1231,
+          1881,
+          98,
+          49261,
+          1543,
+          4035,
+          31846,
+          1764,
+          4767,
+          1231,
+          1881,
+          98,
+          49261,
+          1543,
+          51248
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "違",
+            "start": 15.46,
+            "end": 15.82,
+            "probability": 0.80126953125
+          },
+          {
+            "word": "います、",
+            "start": 15.82,
+            "end": 16.08,
+            "probability": 1.0
+          },
+          {
+            "word": "奥",
+            "start": 16.12,
+            "end": 16.24,
+            "probability": 0.9921875
+          },
+          {
+            "word": "様。",
+            "start": 16.24,
+            "end": 16.4,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "人",
+            "start": 16.7,
+            "end": 16.84,
+            "probability": 0.9677734375
+          },
+          {
+            "word": "違",
+            "start": 16.84,
+            "end": 17.0,
+            "probability": 0.99609375
+          },
+          {
+            "word": "い",
+            "start": 17.0,
+            "end": 17.14,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "です、",
+            "start": 17.14,
+            "end": 17.3,
+            "probability": 1.0
+          },
+          {
+            "word": "奥",
+            "start": 17.32,
+            "end": 17.5,
+            "probability": 1.0
+          },
+          {
+            "word": "様。",
+            "start": 17.5,
+            "end": 17.64,
+            "probability": 1.0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "seek": 0,
+        "start": 18.18,
+        "end": 19.46,
+        "text": "じゃあ誰が?言え。",
+        "tokens": [
+          51285,
+          31284,
+          20757,
+          5142,
+          30,
+          12009,
+          6474,
+          1543,
+          51338
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "じゃあ",
+            "start": 18.18,
+            "end": 18.52,
+            "probability": 0.94140625
+          },
+          {
+            "word": "誰",
+            "start": 18.52,
+            "end": 18.86,
+            "probability": 0.9140625
+          },
+          {
+            "word": "が?",
+            "start": 18.86,
+            "end": 19.02,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "言",
+            "start": 19.34,
+            "end": 19.38,
+            "probability": 0.49267578125
+          },
+          {
+            "word": "え。",
+            "start": 19.38,
+            "end": 19.46,
+            "probability": 0.9970703125
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "seek": 0,
+        "start": 20.24,
+        "end": 21.78,
+        "text": "リンリンだと聞いていましたが。",
+        "tokens": [
+          51378,
+          12376,
+          4824,
+          12376,
+          4824,
+          5362,
+          3193,
+          25468,
+          18549,
+          25910,
+          5142,
+          1543,
+          51453
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "リ",
+            "start": 20.24,
+            "end": 20.38,
+            "probability": 0.431884765625
+          },
+          {
+            "word": "ン",
+            "start": 20.38,
+            "end": 20.48,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "リ",
+            "start": 20.48,
+            "end": 20.62,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "ン",
+            "start": 20.62,
+            "end": 20.66,
+            "probability": 1.0
+          },
+          {
+            "word": "だ",
+            "start": 20.66,
+            "end": 20.76,
+            "probability": 1.0
+          },
+          {
+            "word": "と",
+            "start": 20.76,
+            "end": 20.86,
+            "probability": 1.0
+          },
+          {
+            "word": "聞",
+            "start": 20.86,
+            "end": 21.02,
+            "probability": 1.0
+          },
+          {
+            "word": "いて",
+            "start": 21.02,
+            "end": 21.18,
+            "probability": 1.0
+          },
+          {
+            "word": "いました",
+            "start": 21.18,
+            "end": 21.46,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "が。",
+            "start": 21.46,
+            "end": 21.78,
+            "probability": 1.0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "seek": 0,
+        "start": 22.54,
+        "end": 24.92,
+        "text": "リンリンだね。いいわ、リンリン。",
+        "tokens": [
+          51503,
+          12376,
+          4824,
+          12376,
+          4824,
+          5362,
+          5555,
+          1543,
+          13806,
+          9206,
+          1231,
+          12376,
+          4824,
+          12376,
+          4824,
+          1543,
+          51615
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.20774270559995228,
+        "compression_ratio": 1.7256637168141593,
+        "no_speech_prob": 5.810171094244865e-11,
+        "words": [
+          {
+            "word": "リ",
+            "start": 22.54,
+            "end": 22.88,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "ン",
+            "start": 22.88,
+            "end": 22.98,
+            "probability": 1.0
+          },
+          {
+            "word": "リ",
+            "start": 22.98,
+            "end": 23.1,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "ン",
+            "start": 23.1,
+            "end": 23.14,
+            "probability": 1.0
+          },
+          {
+            "word": "だ",
+            "start": 23.14,
+            "end": 23.24,
+            "probability": 1.0
+          },
+          {
+            "word": "ね。",
+            "start": 23.24,
+            "end": 23.38,
+            "probability": 1.0
+          },
+          {
+            "word": "いい",
+            "start": 23.8,
+            "end": 24.06,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "わ、",
+            "start": 24.06,
+            "end": 24.3,
+            "probability": 1.0
+          },
+          {
+            "word": "リ",
+            "start": 24.48,
+            "end": 24.6,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "ン",
+            "start": 24.6,
+            "end": 24.68,
+            "probability": 1.0
+          },
+          {
+            "word": "リ",
+            "start": 24.68,
+            "end": 24.86,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "ン。",
+            "start": 24.86,
+            "end": 24.92,
+            "probability": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": 25,
+    "end": 40.3,
+    "language": "ko",
+    "text": " 그 사모님은 요코와 사무시라서 린린이 넘아요 바약 다트와 아닙니다 아니라면 너 누구야 죄송은 홍 그래 알았어 방해하지 말고 닥쳐",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 14.72,
+        "text": " 그 사모님은 요코와 사무시라서 린린이 넘아요 바약 다트와 아닙니다 아니라면 너 누구야 죄송은 홍 그래 알았어 방해하지 말고 닥쳐",
+        "tokens": [
+          50365,
+          4296,
+          6606,
+          16838,
+          9466,
+          2124,
+          10161,
+          29872,
+          7590,
+          6606,
+          105,
+          17058,
+          2163,
+          48367,
+          531,
+          99,
+          2004,
+          12811,
+          1129,
+          20237,
+          5601,
+          12704,
+          19970,
+          4279,
+          8857,
+          7590,
+          45842,
+          1972,
+          14279,
+          32713,
+          12963,
+          36385,
+          4248,
+          41939,
+          2124,
+          36990,
+          7080,
+          49453,
+          10006,
+          5302,
+          16175,
+          35145,
+          2515,
+          98,
+          31318,
+          51130
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.3842836745241855,
+        "compression_ratio": 1.1879194630872483,
+        "no_speech_prob": 1.7503908322780148e-09,
+        "words": [
+          {
+            "word": " 그",
+            "start": 0.0,
+            "end": 0.86,
+            "probability": 0.285400390625
+          },
+          {
+            "word": " 사모님은",
+            "start": 0.86,
+            "end": 2.06,
+            "probability": 0.7958984375
+          },
+          {
+            "word": " 요코와",
+            "start": 2.06,
+            "end": 2.98,
+            "probability": 0.7197265625
+          },
+          {
+            "word": " 사무시라서",
+            "start": 2.98,
+            "end": 3.96,
+            "probability": 0.90234375
+          },
+          {
+            "word": " 린린이",
+            "start": 3.96,
+            "end": 5.18,
+            "probability": 0.6787109375
+          },
+          {
+            "word": " 넘아요",
+            "start": 5.18,
+            "end": 5.58,
+            "probability": 0.501953125
+          },
+          {
+            "word": " 바약",
+            "start": 5.58,
+            "end": 6.18,
+            "probability": 0.58984375
+          },
+          {
+            "word": " 다트와",
+            "start": 6.18,
+            "end": 6.56,
+            "probability": 0.402587890625
+          },
+          {
+            "word": " 아닙니다",
+            "start": 6.56,
+            "end": 8.06,
+            "probability": 0.64990234375
+          },
+          {
+            "word": " 아니라면",
+            "start": 8.06,
+            "end": 9.4,
+            "probability": 0.98486328125
+          },
+          {
+            "word": " 너",
+            "start": 9.4,
+            "end": 9.56,
+            "probability": 0.96630859375
+          },
+          {
+            "word": " 누구야",
+            "start": 9.56,
+            "end": 10.06,
+            "probability": 0.9814453125
+          },
+          {
+            "word": " 죄송은",
+            "start": 10.06,
+            "end": 11.34,
+            "probability": 0.73974609375
+          },
+          {
+            "word": " 홍",
+            "start": 11.34,
+            "end": 11.58,
+            "probability": 0.356689453125
+          },
+          {
+            "word": " 그래",
+            "start": 11.58,
+            "end": 12.88,
+            "probability": 0.52880859375
+          },
+          {
+            "word": " 알았어",
+            "start": 12.88,
+            "end": 13.36,
+            "probability": 0.966796875
+          },
+          {
+            "word": " 방해하지",
+            "start": 13.36,
+            "end": 14.18,
+            "probability": 0.994140625
+          },
+          {
+            "word": " 말고",
+            "start": 14.18,
+            "end": 14.36,
+            "probability": 0.998046875
+          },
+          {
+            "word": " 닥쳐",
+            "start": 14.36,
+            "end": 14.72,
+            "probability": 0.99169921875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": 40.3,
+    "end": 54,
+    "language": "fr",
+    "text": " Madame, je vous conseille de sortir si vous avez des questions. C'est vous Ling Ling ? Non, c'est pas moi, madame. Sinon, vous n'avez aucune raison d'être là. Venez si vous êtes Ling Ling.",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 2.0199999999999996,
+        "end": 4.84,
+        "text": " Madame, je vous conseille de sortir si vous avez des questions.",
+        "tokens": [
+          50365,
+          31077,
+          11,
+          1506,
+          2630,
+          4425,
+          3409,
+          368,
+          26906,
+          1511,
+          2630,
+          11766,
+          730,
+          1651,
+          13,
+          50608
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1553177535533905,
+        "compression_ratio": 1.3642857142857143,
+        "no_speech_prob": 3.0915655452323776e-11,
+        "words": [
+          {
+            "word": " Madame,",
+            "start": 2.0199999999999996,
+            "end": 2.34,
+            "probability": 0.60888671875
+          },
+          {
+            "word": " je",
+            "start": 2.78,
+            "end": 3.06,
+            "probability": 0.9990234375
+          },
+          {
+            "word": " vous",
+            "start": 3.06,
+            "end": 3.2,
+            "probability": 0.99951171875
+          },
+          {
+            "word": " conseille",
+            "start": 3.2,
+            "end": 3.54,
+            "probability": 1.0
+          },
+          {
+            "word": " de",
+            "start": 3.54,
+            "end": 3.64,
+            "probability": 0.99951171875
+          },
+          {
+            "word": " sortir",
+            "start": 3.64,
+            "end": 3.9,
+            "probability": 0.99951171875
+          },
+          {
+            "word": " si",
+            "start": 3.9,
+            "end": 4.16,
+            "probability": 0.99853515625
+          },
+          {
+            "word": " vous",
+            "start": 4.16,
+            "end": 4.32,
+            "probability": 1.0
+          },
+          {
+            "word": " avez",
+            "start": 4.32,
+            "end": 4.44,
+            "probability": 1.0
+          },
+          {
+            "word": " des",
+            "start": 4.44,
+            "end": 4.56,
+            "probability": 1.0
+          },
+          {
+            "word": " questions.",
+            "start": 4.56,
+            "end": 4.84,
+            "probability": 1.0
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "seek": 0,
+        "start": 5.5,
+        "end": 6.82,
+        "text": " C'est vous Ling Ling ?",
+        "tokens": [
+          50653,
+          383,
+          6,
+          377,
+          2630,
+          20977,
+          20977,
+          2506,
+          50729
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1553177535533905,
+        "compression_ratio": 1.3642857142857143,
+        "no_speech_prob": 3.0915655452323776e-11,
+        "words": [
+          {
+            "word": " C",
+            "start": 5.5,
+            "end": 5.82,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "'est",
+            "start": 5.82,
+            "end": 5.92,
+            "probability": 1.0
+          },
+          {
+            "word": " vous",
+            "start": 5.92,
+            "end": 6.08,
+            "probability": 0.9990234375
+          },
+          {
+            "word": " Ling",
+            "start": 6.08,
+            "end": 6.26,
+            "probability": 0.69677734375
+          },
+          {
+            "word": " Ling",
+            "start": 6.26,
+            "end": 6.38,
+            "probability": 0.82080078125
+          },
+          {
+            "word": " ?",
+            "start": 6.38,
+            "end": 6.82,
+            "probability": 0.94921875
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "seek": 0,
+        "start": 7.199999999999999,
+        "end": 8.28,
+        "text": " Non, c'est pas moi, madame.",
+        "tokens": [
+          50729,
+          8774,
+          11,
+          269,
+          6,
+          377,
+          1736,
+          7748,
+          11,
+          5244,
+          529,
+          13,
+          50779
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1553177535533905,
+        "compression_ratio": 1.3642857142857143,
+        "no_speech_prob": 3.0915655452323776e-11,
+        "words": [
+          {
+            "word": " Non,",
+            "start": 7.199999999999999,
+            "end": 7.52,
+            "probability": 0.99658203125
+          },
+          {
+            "word": " c",
+            "start": 7.68,
+            "end": 7.72,
+            "probability": 0.67822265625
+          },
+          {
+            "word": "'est",
+            "start": 7.72,
+            "end": 7.74,
+            "probability": 1.0
+          },
+          {
+            "word": " pas",
+            "start": 7.74,
+            "end": 7.84,
+            "probability": 0.99951171875
+          },
+          {
+            "word": " moi,",
+            "start": 7.84,
+            "end": 7.98,
+            "probability": 1.0
+          },
+          {
+            "word": " madame.",
+            "start": 8.1,
+            "end": 8.28,
+            "probability": 0.9560546875
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "seek": 0,
+        "start": 9.1,
+        "end": 10.62,
+        "text": " Sinon, vous n'avez aucune raison d'être là.",
+        "tokens": [
+          50823,
+          11187,
+          266,
+          11,
+          2630,
+          297,
+          6,
+          25975,
+          40076,
+          28402,
+          274,
+          6,
+          9498,
+          3684,
+          13,
+          50897
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1553177535533905,
+        "compression_ratio": 1.3642857142857143,
+        "no_speech_prob": 3.0915655452323776e-11,
+        "words": [
+          {
+            "word": " Sinon,",
+            "start": 9.1,
+            "end": 9.42,
+            "probability": 0.9990234375
+          },
+          {
+            "word": " vous",
+            "start": 9.46,
+            "end": 9.56,
+            "probability": 1.0
+          },
+          {
+            "word": " n",
+            "start": 9.56,
+            "end": 9.64,
+            "probability": 0.58837890625
+          },
+          {
+            "word": "'avez",
+            "start": 9.64,
+            "end": 9.72,
+            "probability": 0.99951171875
+          },
+          {
+            "word": " aucune",
+            "start": 9.72,
+            "end": 10.02,
+            "probability": 0.9990234375
+          },
+          {
+            "word": " raison",
+            "start": 10.02,
+            "end": 10.28,
+            "probability": 0.99951171875
+          },
+          {
+            "word": " d",
+            "start": 10.28,
+            "end": 10.38,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "'être",
+            "start": 10.38,
+            "end": 10.48,
+            "probability": 1.0
+          },
+          {
+            "word": " là.",
+            "start": 10.48,
+            "end": 10.62,
+            "probability": 0.99951171875
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "seek": 0,
+        "start": 11.58,
+        "end": 12.76,
+        "text": " Venez si vous êtes Ling Ling.",
+        "tokens": [
+          50949,
+          19656,
+          1511,
+          2630,
+          18935,
+          20977,
+          20977,
+          13,
+          51007
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1553177535533905,
+        "compression_ratio": 1.3642857142857143,
+        "no_speech_prob": 3.0915655452323776e-11,
+        "words": [
+          {
+            "word": " Venez",
+            "start": 11.58,
+            "end": 11.88,
+            "probability": 0.9931640625
+          },
+          {
+            "word": " si",
+            "start": 11.88,
+            "end": 12.18,
+            "probability": 0.98486328125
+          },
+          {
+            "word": " vous",
+            "start": 12.18,
+            "end": 12.32,
+            "probability": 1.0
+          },
+          {
+            "word": " êtes",
+            "start": 12.32,
+            "end": 12.44,
+            "probability": 0.99853515625
+          },
+          {
+            "word": " Ling",
+            "start": 12.44,
+            "end": 12.6,
+            "probability": 0.998046875
+          },
+          {
+            "word": " Ling.",
+            "start": 12.6,
+            "end": 12.76,
+            "probability": 0.998046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": 54,
+    "end": 72,
+    "language": "yue",
+    "text": "我不是Ling Ling哎呀 你搞错了又是我们出去说我为什么要出去说你别臭啦 Ling Ling阿姨 你别这样啊Ling Ling不方便都不是几合色Ling Ling是哪位你就是Ling Ling没错了 走跟我",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 0.58,
+        "text": "我不是Ling Ling",
+        "tokens": [
+          50365,
+          1654,
+          7296,
+          43,
+          278,
+          441,
+          278,
+          50407
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "我",
+            "start": 0.0,
+            "end": 0.1,
+            "probability": 0.470703125
+          },
+          {
+            "word": "不是",
+            "start": 0.1,
+            "end": 0.36,
+            "probability": 0.93408203125
+          },
+          {
+            "word": "L",
+            "start": 0.36,
+            "end": 0.54,
+            "probability": 0.1761474609375
+          },
+          {
+            "word": "ing",
+            "start": 0.54,
+            "end": 0.54,
+            "probability": 0.53662109375
+          },
+          {
+            "word": " L",
+            "start": 0.54,
+            "end": 0.58,
+            "probability": 0.1427001953125
+          },
+          {
+            "word": "ing",
+            "start": 0.58,
+            "end": 0.58,
+            "probability": 0.88916015625
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "seek": 0,
+        "start": 0.9599999999999999,
+        "end": 2.36,
+        "text": "哎呀 你搞错了",
+        "tokens": [
+          50407,
+          26755,
+          15348,
+          10930,
+          41816,
+          29900,
+          2289,
+          50487
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "哎",
+            "start": 0.9599999999999999,
+            "end": 1.32,
+            "probability": 0.0095062255859375
+          },
+          {
+            "word": "呀",
+            "start": 1.32,
+            "end": 1.5,
+            "probability": 0.955078125
+          },
+          {
+            "word": " 你",
+            "start": 1.5,
+            "end": 1.86,
+            "probability": 0.59326171875
+          },
+          {
+            "word": "搞",
+            "start": 1.86,
+            "end": 2.0,
+            "probability": 0.89697265625
+          },
+          {
+            "word": "错",
+            "start": 2.0,
+            "end": 2.16,
+            "probability": 0.83984375
+          },
+          {
+            "word": "了",
+            "start": 2.16,
+            "end": 2.36,
+            "probability": 0.94384765625
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "seek": 0,
+        "start": 2.36,
+        "end": 3.44,
+        "text": "又是我们出去说",
+        "tokens": [
+          50487,
+          17047,
+          1541,
+          15003,
+          48973,
+          8090,
+          50545
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "又",
+            "start": 2.36,
+            "end": 2.74,
+            "probability": 0.03717041015625
+          },
+          {
+            "word": "是",
+            "start": 2.74,
+            "end": 2.86,
+            "probability": 0.261962890625
+          },
+          {
+            "word": "我们",
+            "start": 2.86,
+            "end": 3.02,
+            "probability": 0.75146484375
+          },
+          {
+            "word": "出去",
+            "start": 3.02,
+            "end": 3.26,
+            "probability": 0.9765625
+          },
+          {
+            "word": "说",
+            "start": 3.26,
+            "end": 3.44,
+            "probability": 0.54345703125
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "seek": 0,
+        "start": 3.84,
+        "end": 5.16,
+        "text": "我为什么要出去说",
+        "tokens": [
+          50545,
+          1654,
+          31006,
+          4275,
+          48973,
+          8090,
+          50639
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "我",
+            "start": 3.84,
+            "end": 4.2,
+            "probability": 0.560546875
+          },
+          {
+            "word": "为什么",
+            "start": 4.2,
+            "end": 4.5,
+            "probability": 0.57666015625
+          },
+          {
+            "word": "要",
+            "start": 4.5,
+            "end": 4.7,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "出去",
+            "start": 4.7,
+            "end": 4.9,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "说",
+            "start": 4.9,
+            "end": 5.16,
+            "probability": 0.974609375
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "seek": 0,
+        "start": 5.68,
+        "end": 6.98,
+        "text": "你别臭啦 Ling Ling",
+        "tokens": [
+          50639,
+          2166,
+          18453,
+          6784,
+          255,
+          9724,
+          441,
+          278,
+          441,
+          278,
+          50713
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "你",
+            "start": 5.68,
+            "end": 6.04,
+            "probability": 0.6572265625
+          },
+          {
+            "word": "别",
+            "start": 6.04,
+            "end": 6.22,
+            "probability": 0.53857421875
+          },
+          {
+            "word": "臭",
+            "start": 6.22,
+            "end": 6.44,
+            "probability": 0.43408203125
+          },
+          {
+            "word": "啦",
+            "start": 6.44,
+            "end": 6.64,
+            "probability": 0.448974609375
+          },
+          {
+            "word": " L",
+            "start": 6.64,
+            "end": 6.78,
+            "probability": 0.3251953125
+          },
+          {
+            "word": "ing",
+            "start": 6.78,
+            "end": 6.82,
+            "probability": 0.880859375
+          },
+          {
+            "word": " L",
+            "start": 6.82,
+            "end": 6.9,
+            "probability": 0.433349609375
+          },
+          {
+            "word": "ing",
+            "start": 6.9,
+            "end": 6.98,
+            "probability": 0.89599609375
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "seek": 0,
+        "start": 6.98,
+        "end": 8.5,
+        "text": "阿姨 你别这样啊",
+        "tokens": [
+          50713,
+          13594,
+          7795,
+          101,
+          10930,
+          18453,
+          21209,
+          4905,
+          50791
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "阿",
+            "start": 6.98,
+            "end": 7.4,
+            "probability": 0.06402587890625
+          },
+          {
+            "word": "姨",
+            "start": 7.4,
+            "end": 7.52,
+            "probability": 0.607421875
+          },
+          {
+            "word": " 你",
+            "start": 7.52,
+            "end": 7.76,
+            "probability": 0.93701171875
+          },
+          {
+            "word": "别",
+            "start": 7.76,
+            "end": 7.88,
+            "probability": 0.7119140625
+          },
+          {
+            "word": "这样",
+            "start": 7.88,
+            "end": 8.06,
+            "probability": 0.88134765625
+          },
+          {
+            "word": "啊",
+            "start": 8.06,
+            "end": 8.5,
+            "probability": 0.68896484375
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "seek": 0,
+        "start": 8.5,
+        "end": 9.3,
+        "text": "Ling Ling",
+        "tokens": [
+          50791,
+          43,
+          278,
+          441,
+          278,
+          50835
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "L",
+            "start": 8.5,
+            "end": 9.12,
+            "probability": 0.2086181640625
+          },
+          {
+            "word": "ing",
+            "start": 9.12,
+            "end": 9.16,
+            "probability": 0.99755859375
+          },
+          {
+            "word": " L",
+            "start": 9.16,
+            "end": 9.26,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "ing",
+            "start": 9.26,
+            "end": 9.3,
+            "probability": 0.8193359375
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "seek": 0,
+        "start": 10.040000000000001,
+        "end": 10.9,
+        "text": "不方便",
+        "tokens": [
+          50835,
+          1960,
+          9249,
+          27364,
+          50915
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "不",
+            "start": 10.040000000000001,
+            "end": 10.4,
+            "probability": 0.07879638671875
+          },
+          {
+            "word": "方",
+            "start": 10.4,
+            "end": 10.7,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "便",
+            "start": 10.7,
+            "end": 10.9,
+            "probability": 0.99951171875
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "seek": 0,
+        "start": 10.9,
+        "end": 11.94,
+        "text": "都不是几合色",
+        "tokens": [
+          50915,
+          7182,
+          7296,
+          6336,
+          254,
+          14245,
+          17673,
+          50975
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "都",
+            "start": 10.9,
+            "end": 11.34,
+            "probability": 0.2225341796875
+          },
+          {
+            "word": "不是",
+            "start": 11.34,
+            "end": 11.52,
+            "probability": 0.66259765625
+          },
+          {
+            "word": "几",
+            "start": 11.52,
+            "end": 11.66,
+            "probability": 0.619140625
+          },
+          {
+            "word": "合",
+            "start": 11.66,
+            "end": 11.8,
+            "probability": 0.97509765625
+          },
+          {
+            "word": "色",
+            "start": 11.8,
+            "end": 11.94,
+            "probability": 0.2056884765625
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "seek": 0,
+        "start": 11.94,
+        "end": 12.88,
+        "text": "Ling Ling",
+        "tokens": [
+          50975,
+          43,
+          278,
+          441,
+          278,
+          51005
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "L",
+            "start": 11.94,
+            "end": 12.36,
+            "probability": 0.0673828125
+          },
+          {
+            "word": "ing",
+            "start": 12.36,
+            "end": 12.74,
+            "probability": 0.99658203125
+          },
+          {
+            "word": " L",
+            "start": 12.74,
+            "end": 12.88,
+            "probability": 0.077392578125
+          },
+          {
+            "word": "ing",
+            "start": 12.88,
+            "end": 12.88,
+            "probability": 0.7939453125
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "seek": 0,
+        "start": 12.88,
+        "end": 13.3,
+        "text": "是哪位",
+        "tokens": [
+          51005,
+          1541,
+          17028,
+          11160,
+          51045
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "是",
+            "start": 12.88,
+            "end": 12.98,
+            "probability": 0.56982421875
+          },
+          {
+            "word": "哪",
+            "start": 12.98,
+            "end": 13.1,
+            "probability": 0.62890625
+          },
+          {
+            "word": "位",
+            "start": 13.1,
+            "end": 13.3,
+            "probability": 0.9033203125
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "seek": 0,
+        "start": 13.82,
+        "end": 14.8,
+        "text": "你就是Ling Ling",
+        "tokens": [
+          51045,
+          2166,
+          5620,
+          43,
+          278,
+          441,
+          278,
+          51105
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "你",
+            "start": 13.82,
+            "end": 14.18,
+            "probability": 0.419921875
+          },
+          {
+            "word": "就是",
+            "start": 14.18,
+            "end": 14.46,
+            "probability": 0.98291015625
+          },
+          {
+            "word": "L",
+            "start": 14.46,
+            "end": 14.6,
+            "probability": 0.921875
+          },
+          {
+            "word": "ing",
+            "start": 14.6,
+            "end": 14.66,
+            "probability": 0.99853515625
+          },
+          {
+            "word": " L",
+            "start": 14.66,
+            "end": 14.74,
+            "probability": 0.8544921875
+          },
+          {
+            "word": "ing",
+            "start": 14.74,
+            "end": 14.8,
+            "probability": 0.84716796875
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "seek": 0,
+        "start": 14.8,
+        "end": 15.96,
+        "text": "没错了 走",
+        "tokens": [
+          51105,
+          10062,
+          29900,
+          2289,
+          220,
+          9575,
+          51165
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "没",
+            "start": 14.8,
+            "end": 14.88,
+            "probability": 0.00806427001953125
+          },
+          {
+            "word": "错",
+            "start": 14.88,
+            "end": 15.5,
+            "probability": 0.380126953125
+          },
+          {
+            "word": "了",
+            "start": 15.5,
+            "end": 15.66,
+            "probability": 0.54248046875
+          },
+          {
+            "word": " 走",
+            "start": 15.78,
+            "end": 15.96,
+            "probability": 0.96728515625
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "seek": 0,
+        "start": 15.96,
+        "end": 16.62,
+        "text": "跟我",
+        "tokens": [
+          51165,
+          47472,
+          51193
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.6943049575343276,
+        "compression_ratio": 1.3151515151515152,
+        "no_speech_prob": 1.111335606873709e-10,
+        "words": [
+          {
+            "word": "跟我",
+            "start": 15.96,
+            "end": 16.62,
+            "probability": 0.076416015625
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "start": 76,
+    "end": 92,
+    "language": "en",
+    "text": " I'm telling you. I'm a woman of Rose Jun. Chen Jun-sho's bell mail. Ask her to call her? Fine, get on with it. She likes to get a front with a bitch like you. I think you're like a bitch like you. In the old society, you're sunk into a pond. Et tu es acte, baton.",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 0.82,
+        "text": " I'm telling you.",
+        "tokens": [
+          50365,
+          286,
+          478,
+          3585,
+          291,
+          13,
+          50408
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " I'm",
+            "start": 0.0,
+            "end": 0.12,
+            "probability": 0.75390625
+          },
+          {
+            "word": " telling",
+            "start": 0.12,
+            "end": 0.42,
+            "probability": 0.9833984375
+          },
+          {
+            "word": " you.",
+            "start": 0.42,
+            "end": 0.82,
+            "probability": 0.998046875
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "seek": 0,
+        "start": 1.12,
+        "end": 2.4,
+        "text": " I'm a woman of Rose Jun.",
+        "tokens": [
+          50431,
+          286,
+          478,
+          257,
+          3059,
+          295,
+          12765,
+          8492,
+          13,
+          50498
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " I'm",
+            "start": 1.12,
+            "end": 1.62,
+            "probability": 0.7578125
+          },
+          {
+            "word": " a",
+            "start": 1.62,
+            "end": 1.92,
+            "probability": 0.45849609375
+          },
+          {
+            "word": " woman",
+            "start": 1.92,
+            "end": 1.92,
+            "probability": 0.277099609375
+          },
+          {
+            "word": " of",
+            "start": 1.92,
+            "end": 1.92,
+            "probability": 0.30859375
+          },
+          {
+            "word": " Rose",
+            "start": 1.92,
+            "end": 2.22,
+            "probability": 0.8642578125
+          },
+          {
+            "word": " Jun.",
+            "start": 2.22,
+            "end": 2.4,
+            "probability": 0.1904296875
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "seek": 0,
+        "start": 3.060000000000002,
+        "end": 4.6,
+        "text": " Chen Jun-sho's bell mail.",
+        "tokens": [
+          50530,
+          13682,
+          8492,
+          12,
+          82,
+          1289,
+          311,
+          4549,
+          10071,
+          13,
+          50597
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " Chen",
+            "start": 3.060000000000002,
+            "end": 3.56,
+            "probability": 0.188720703125
+          },
+          {
+            "word": " Jun",
+            "start": 3.56,
+            "end": 3.84,
+            "probability": 0.96142578125
+          },
+          {
+            "word": "-sho's",
+            "start": 3.84,
+            "end": 4.14,
+            "probability": 0.4453125
+          },
+          {
+            "word": " bell",
+            "start": 4.14,
+            "end": 4.34,
+            "probability": 0.60791015625
+          },
+          {
+            "word": " mail.",
+            "start": 4.34,
+            "end": 4.6,
+            "probability": 0.281982421875
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "seek": 0,
+        "start": 4.96,
+        "end": 6.02,
+        "text": " Ask her to call her?",
+        "tokens": [
+          50622,
+          12320,
+          720,
+          281,
+          818,
+          720,
+          30,
+          50662
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " Ask",
+            "start": 4.96,
+            "end": 5.26,
+            "probability": 0.07208251953125
+          },
+          {
+            "word": " her",
+            "start": 5.26,
+            "end": 5.58,
+            "probability": 0.34130859375
+          },
+          {
+            "word": " to",
+            "start": 5.58,
+            "end": 5.64,
+            "probability": 0.45654296875
+          },
+          {
+            "word": " call",
+            "start": 5.64,
+            "end": 5.74,
+            "probability": 0.3447265625
+          },
+          {
+            "word": " her?",
+            "start": 5.74,
+            "end": 6.02,
+            "probability": 0.67431640625
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "seek": 0,
+        "start": 6.1,
+        "end": 7.26,
+        "text": " Fine, get on with it.",
+        "tokens": [
+          50675,
+          12024,
+          11,
+          483,
+          322,
+          365,
+          309,
+          13,
+          50731
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " Fine,",
+            "start": 6.1,
+            "end": 6.56,
+            "probability": 0.96240234375
+          },
+          {
+            "word": " get",
+            "start": 6.74,
+            "end": 6.82,
+            "probability": 0.9853515625
+          },
+          {
+            "word": " on",
+            "start": 6.82,
+            "end": 6.96,
+            "probability": 0.98388671875
+          },
+          {
+            "word": " with",
+            "start": 6.96,
+            "end": 7.1,
+            "probability": 0.9970703125
+          },
+          {
+            "word": " it.",
+            "start": 7.1,
+            "end": 7.26,
+            "probability": 0.9931640625
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "seek": 0,
+        "start": 7.54,
+        "end": 9.3,
+        "text": " She likes to get a front with a bitch like you.",
+        "tokens": [
+          50741,
+          1240,
+          5902,
+          281,
+          483,
+          257,
+          1868,
+          365,
+          257,
+          11960,
+          411,
+          291,
+          13,
+          50832
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " She",
+            "start": 7.54,
+            "end": 7.74,
+            "probability": 0.2276611328125
+          },
+          {
+            "word": " likes",
+            "start": 7.74,
+            "end": 7.74,
+            "probability": 0.301025390625
+          },
+          {
+            "word": " to",
+            "start": 7.74,
+            "end": 8.14,
+            "probability": 0.13330078125
+          },
+          {
+            "word": " get",
+            "start": 8.14,
+            "end": 8.18,
+            "probability": 0.10662841796875
+          },
+          {
+            "word": " a",
+            "start": 8.18,
+            "end": 8.3,
+            "probability": 0.2265625
+          },
+          {
+            "word": " front",
+            "start": 8.3,
+            "end": 8.3,
+            "probability": 0.49169921875
+          },
+          {
+            "word": " with",
+            "start": 8.3,
+            "end": 8.52,
+            "probability": 0.6494140625
+          },
+          {
+            "word": " a",
+            "start": 8.52,
+            "end": 8.68,
+            "probability": 0.943359375
+          },
+          {
+            "word": " bitch",
+            "start": 8.68,
+            "end": 8.94,
+            "probability": 0.9853515625
+          },
+          {
+            "word": " like",
+            "start": 8.94,
+            "end": 9.1,
+            "probability": 0.99462890625
+          },
+          {
+            "word": " you.",
+            "start": 9.1,
+            "end": 9.3,
+            "probability": 0.9970703125
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "seek": 0,
+        "start": 9.78,
+        "end": 11.54,
+        "text": " I think you're like a bitch like you.",
+        "tokens": [
+          50854,
+          286,
+          519,
+          291,
+          434,
+          411,
+          257,
+          11960,
+          411,
+          291,
+          13,
+          50938
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " I",
+            "start": 9.78,
+            "end": 9.92,
+            "probability": 0.258544921875
+          },
+          {
+            "word": " think",
+            "start": 9.92,
+            "end": 10.24,
+            "probability": 0.1114501953125
+          },
+          {
+            "word": " you're",
+            "start": 10.24,
+            "end": 10.5,
+            "probability": 0.2939453125
+          },
+          {
+            "word": " like",
+            "start": 10.5,
+            "end": 10.58,
+            "probability": 0.4755859375
+          },
+          {
+            "word": " a",
+            "start": 10.58,
+            "end": 10.58,
+            "probability": 0.294921875
+          },
+          {
+            "word": " bitch",
+            "start": 10.58,
+            "end": 11.36,
+            "probability": 0.055755615234375
+          },
+          {
+            "word": " like",
+            "start": 11.36,
+            "end": 11.36,
+            "probability": 0.71435546875
+          },
+          {
+            "word": " you.",
+            "start": 11.36,
+            "end": 11.54,
+            "probability": 0.494384765625
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "seek": 0,
+        "start": 11.64,
+        "end": 13.9,
+        "text": " In the old society, you're sunk into a pond.",
+        "tokens": [
+          50951,
+          682,
+          264,
+          1331,
+          4086,
+          11,
+          291,
+          434,
+          40564,
+          666,
+          257,
+          17384,
+          13,
+          51062
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " In",
+            "start": 11.64,
+            "end": 11.8,
+            "probability": 0.10400390625
+          },
+          {
+            "word": " the",
+            "start": 11.8,
+            "end": 11.8,
+            "probability": 0.53955078125
+          },
+          {
+            "word": " old",
+            "start": 11.8,
+            "end": 12.04,
+            "probability": 0.309326171875
+          },
+          {
+            "word": " society,",
+            "start": 12.04,
+            "end": 12.34,
+            "probability": 0.56640625
+          },
+          {
+            "word": " you're",
+            "start": 12.48,
+            "end": 12.52,
+            "probability": 0.385498046875
+          },
+          {
+            "word": " sunk",
+            "start": 12.52,
+            "end": 12.96,
+            "probability": 0.220947265625
+          },
+          {
+            "word": " into",
+            "start": 12.96,
+            "end": 13.38,
+            "probability": 0.70849609375
+          },
+          {
+            "word": " a",
+            "start": 13.38,
+            "end": 13.64,
+            "probability": 0.98095703125
+          },
+          {
+            "word": " pond.",
+            "start": 13.64,
+            "end": 13.9,
+            "probability": 0.9892578125
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "seek": 0,
+        "start": 14.26,
+        "end": 15.82,
+        "text": " Et tu es acte, baton.",
+        "tokens": [
+          51090,
+          3790,
+          2604,
+          785,
+          605,
+          68,
+          11,
+          7362,
+          266,
+          13,
+          51157
+        ],
+        "temperature": 0.4,
+        "avg_logprob": -0.8512721897400531,
+        "compression_ratio": 1.5202312138728324,
+        "no_speech_prob": 3.938436798911482e-10,
+        "words": [
+          {
+            "word": " Et",
+            "start": 14.26,
+            "end": 14.6,
+            "probability": 0.481201171875
+          },
+          {
+            "word": " tu",
+            "start": 14.6,
+            "end": 14.92,
+            "probability": 0.68896484375
+          },
+          {
+            "word": " es",
+            "start": 14.92,
+            "end": 15.08,
+            "probability": 0.77294921875
+          },
+          {
+            "word": " acte,",
+            "start": 15.08,
+            "end": 15.58,
+            "probability": 0.400146484375
+          },
+          {
+            "word": " baton.",
+            "start": 15.64,
+            "end": 15.82,
+            "probability": 0.55419921875
+          }
+        ]
+      }
+    ]
+  }
+]

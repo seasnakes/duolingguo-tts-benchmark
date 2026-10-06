@@ -1,0 +1,99 @@
+{
+  "id": "duolingguo-multilingual-v1",
+  "source": "https://www.bilibili.com/video/BV1Zmuk6kExf",
+  "target": "one fixed Chinese female voice, multilingual and intrasentence code switching",
+  "languages": [
+    "ja",
+    "ko",
+    "fr",
+    "yue",
+    "en",
+    "zh"
+  ],
+  "normalization": "subtitle-based adapted evaluation script, not a verbatim full-audio transcript",
+  "excluded_ranges": [
+    [
+      0,
+      13.6
+    ],
+    [
+      63.5,
+      72.5
+    ]
+  ],
+  "text_sha256": "9f32e3c3278f8c153bb065857f8f1406bffbce9409c4712f0e40b316a1ba8469",
+  "segments": [
+    {
+      "id": "S01",
+      "language": "ja",
+      "source_start": 13.6,
+      "source_end": 35.6,
+      "text": "どなたをお探しですか？\n泥棒猫だわ！\nこの会社の陳俊生の愛人を探しているわ。\nすみません、あまり詳しくは……。\nすみませんって？\nいいわ、じゃ君だ！さあ、出てきて！\nえ、違います、奥様。人違いです、奥様！\nじゃ誰が？言え！\nリンリンだと聞いていましたが……。\nリンリンだね？いいわ、リンリン！",
+      "provenance": "画面日文字幕；仅统一标点"
+    },
+    {
+      "id": "S02",
+      "language": "ko",
+      "source_start": 35.6,
+      "source_end": 47.3,
+      "text": "그… 사모님. 여기는 사무실이라서…\n링링이 너냐? 빨리 따라와!\n아, 아닙니다!\n아니라면 너 누구야?\n제 성은 홍…\n그래, 알았어. 방해하지 말고 닥쳐!\n누구라고! 링링!",
+      "provenance": "画面韩文字幕，OCR与分段ASR交叉核对；仅统一标点"
+    },
+    {
+      "id": "S03",
+      "language": "fr",
+      "source_start": 47.3,
+      "source_end": 54.4,
+      "text": "Madame, je vous conseille de sortir, si vous avez des questions.\nC'est vous, Lingling ?\nNon, c'est pas moi, Madame…\nSinon vous avez aucune raison d'être là. Venez si vous êtes Lingling !",
+      "provenance": "画面法文字幕；保留原口语语法"
+    },
+    {
+      "id": "S04",
+      "language": "yue",
+      "source_start": 54.4,
+      "source_end": 63.5,
+      "text": "我唔係凌玲。阿姨，你搞錯咗。有事我哋出去講。\n我點解要出去講呀？\n你唔好嘈啦，凌玲！阿姨，你唔好咁樣呀！\n凌玲！唔方便，都唔係幾合適呀！凌玲係邊位呀？",
+      "provenance": "根据画面中文意译和ASR整理的粤语口语测试稿；非已逐字核准转写"
+    },
+    {
+      "id": "S05",
+      "language": "yue",
+      "source_start": 72.5,
+      "source_end": 77.7,
+      "text": "你就係凌玲吖嘛？冇錯啦，走呀！跟我出嚟講！",
+      "provenance": "粤语口语整理稿；非已逐字核准转写"
+    },
+    {
+      "id": "S06",
+      "language": "en",
+      "source_start": 77.7,
+      "source_end": 83.2,
+      "text": "I'm calling 101, whoever you are!\nWhoever I am? I'm telling you!",
+      "provenance": "画面英文字幕与ASR；保留101"
+    },
+    {
+      "id": "S07",
+      "language": "mixed",
+      "source_start": 83.2,
+      "source_end": 99,
+      "text": "저는羅子君的媽媽！陳俊生の belle-mère！\n阿Sirを呼ぶって？Fine, get on with it!\nOn verra ce qu’ils feront avec a b***h like you!\n我跟你說，あんたみたいなやつはね、旧社会では sunken into a pond！Et tuée à coups de bâton！알겠지?",
+      "provenance": "画面混语字幕；修正法文se→ce；保留画面b***h遮挡，不猜补"
+    },
+    {
+      "id": "S08",
+      "language": "zh",
+      "source_start": 100.6,
+      "source_end": 102.5,
+      "text": "解决了你呀！",
+      "provenance": "画面中文字幕，原片该处为普通话"
+    },
+    {
+      "id": "S09",
+      "language": "mixed",
+      "source_start": 102.5,
+      "source_end": 124.7,
+      "text": "I'll tell you what. If you want me to spill all the tea, right in front of everyone's eyes——\n咁我就喺呢度講！\nSinon、入り口まで、sors avec moi！\n走啊！Out! Get out!",
+      "provenance": "英文、日文、法文取画面字幕；粤语为口语整理稿；无字幕/不确定衔接不补写"
+    }
+  ]
+}

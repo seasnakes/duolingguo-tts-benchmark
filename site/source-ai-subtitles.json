@@ -1,0 +1,212 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.2,
+      "to": 3.16,
+      "sid": 1,
+      "location": 2,
+      "content": "陈俊生的PINKLE",
+      "music": 0.0
+    },
+    {
+      "from": 29.86,
+      "to": 34.02,
+      "sid": 2,
+      "location": 2,
+      "content": "100的多给点零零的呢",
+      "music": 0.0
+    },
+    {
+      "from": 34.02,
+      "to": 35.65,
+      "sid": 3,
+      "location": 2,
+      "content": "1万00",
+      "music": 0.0
+    },
+    {
+      "from": 42.44,
+      "to": 42.96,
+      "sid": 4,
+      "location": 2,
+      "content": "快点啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.96,
+      "to": 44.82,
+      "sid": 5,
+      "location": 2,
+      "content": "他说帮你去买一个大叫",
+      "music": 0.0
+    },
+    {
+      "from": 44.82,
+      "to": 47.28,
+      "sid": 6,
+      "location": 2,
+      "content": "路过那个玲玲",
+      "music": 0.0
+    },
+    {
+      "from": 47.28,
+      "to": 49.16,
+      "sid": 7,
+      "location": 2,
+      "content": "妈的是我公司的手机",
+      "music": 0.0
+    },
+    {
+      "from": 49.16,
+      "to": 50.3,
+      "sid": 8,
+      "location": 2,
+      "content": "在外地开始清",
+      "music": 0.0
+    },
+    {
+      "from": 50.3,
+      "to": 50.92,
+      "sid": 9,
+      "location": 2,
+      "content": "谁不会的",
+      "music": 0.0
+    },
+    {
+      "from": 50.92,
+      "to": 51.34,
+      "sid": 10,
+      "location": 2,
+      "content": "你",
+      "music": 0.0
+    },
+    {
+      "from": 68.3,
+      "to": 69.9,
+      "sid": 11,
+      "location": 2,
+      "content": "I don't understand i mean",
+      "music": 0.0
+    },
+    {
+      "from": 69.9,
+      "to": 71.24,
+      "sid": 12,
+      "location": 2,
+      "content": "What the  she",
+      "music": 0.0
+    },
+    {
+      "from": 72.535,
+      "to": 74.71,
+      "sid": 13,
+      "location": 2,
+      "content": "你在零零的吗",
+      "music": 0.0
+    },
+    {
+      "from": 74.71,
+      "to": 76.79,
+      "sid": 14,
+      "location": 2,
+      "content": "没错啊好啊",
+      "music": 0.0
+    },
+    {
+      "from": 76.79,
+      "to": 77.79,
+      "sid": 15,
+      "location": 2,
+      "content": "我认出来",
+      "music": 0.0
+    },
+    {
+      "from": 77.79,
+      "to": 78.59,
+      "sid": 16,
+      "location": 2,
+      "content": "I'm calling the one",
+      "music": 0.0
+    },
+    {
+      "from": 78.59,
+      "to": 79.29,
+      "sid": 17,
+      "location": 2,
+      "content": "Who you",
+      "music": 0.0
+    },
+    {
+      "from": 79.29,
+      "to": 80.67,
+      "sid": 18,
+      "location": 2,
+      "content": "Hwhoever",
+      "music": 0.0
+    },
+    {
+      "from": 80.67,
+      "to": 81.37,
+      "sid": 19,
+      "location": 2,
+      "content": "I am",
+      "music": 0.0
+    },
+    {
+      "from": 81.37,
+      "to": 83.15,
+      "sid": 20,
+      "location": 2,
+      "content": "Hi'm telling you",
+      "music": 0.0
+    },
+    {
+      "from": 100.63,
+      "to": 102.55,
+      "sid": 21,
+      "location": 2,
+      "content": "解决了你呀",
+      "music": 0.0
+    },
+    {
+      "from": 103.31,
+      "to": 103.99,
+      "sid": 22,
+      "location": 2,
+      "content": "I'll tell you",
+      "music": 0.0
+    },
+    {
+      "from": 103.99,
+      "to": 107.55,
+      "sid": 23,
+      "location": 2,
+      "content": "What if you want me to spill all the tea",
+      "music": 0.0
+    },
+    {
+      "from": 107.55,
+      "to": 110.87,
+      "sid": 24,
+      "location": 2,
+      "content": "Right in front of everyone's eyes come on the head dogg",
+      "music": 0.0
+    },
+    {
+      "from": 110.87,
+      "to": 114.39,
+      "sid": 25,
+      "location": 2,
+      "content": "形容一个起码的那么",
+      "music": 0.0
+    }
+  ]
+}

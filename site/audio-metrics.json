@@ -1,0 +1,79 @@
+[
+  {
+    "file": "eleven-v4-helen-take1.mp3",
+    "seconds": 109.400813,
+    "bytes": 1767351,
+    "sample_rate": "44100",
+    "channels": 1,
+    "integrated_lufs": -20.69,
+    "true_peak_dbtp": -1.21,
+    "listening_gain_db": -3.31,
+    "sha256": "46a0966b4dd7f676fa2cde2ea85be8bef64331ecfc13148edc70f17c07308534"
+  },
+  {
+    "file": "eleven-v4-helen-take2.mp3",
+    "seconds": 99.866063,
+    "bytes": 1614795,
+    "sample_rate": "44100",
+    "channels": 1,
+    "integrated_lufs": -20.81,
+    "true_peak_dbtp": -2.25,
+    "listening_gain_db": -3.19,
+    "sha256": "ad265037a86116ac78aa718e8164ecc2b7acf1396e26f6d8435b084c74fdd491"
+  },
+  {
+    "file": "minimax-2.8-office-auto.mp3",
+    "seconds": 165.833356,
+    "bytes": 2654502,
+    "sample_rate": "44100",
+    "channels": 1,
+    "integrated_lufs": -21.34,
+    "true_peak_dbtp": -0.49,
+    "listening_gain_db": -2.66,
+    "sha256": "1ef884f104803587faf58921a83ad58da0e2a635af5e11a2bae3de5b3fd5a6cc"
+  },
+  {
+    "file": "minimax-2.8-office-auto-take2.mp3",
+    "seconds": 138.084331,
+    "bytes": 2210630,
+    "sample_rate": "44100",
+    "channels": 1,
+    "integrated_lufs": -20.46,
+    "true_peak_dbtp": -0.43,
+    "listening_gain_db": -3.54,
+    "sha256": "10d187536b04d96aaf341ae63bb26b9dc11ed245a2fcc47142d152b0d580a4f4"
+  },
+  {
+    "file": "minimax-2.8-office-french-detected.mp3",
+    "seconds": 198.399365,
+    "bytes": 3175279,
+    "sample_rate": "44100",
+    "channels": 1,
+    "integrated_lufs": -21.03,
+    "true_peak_dbtp": -0.53,
+    "listening_gain_db": -2.97,
+    "sha256": "0878278dd1ac6249065b4feeac6212fd764ec334b10f983631017a7f624d45a5"
+  },
+  {
+    "file": "gemini-3.8-kore-take1.wav",
+    "seconds": 106.28,
+    "bytes": 5101484,
+    "sample_rate": "24000",
+    "channels": 1,
+    "integrated_lufs": -17.43,
+    "true_peak_dbtp": -0.61,
+    "listening_gain_db": -6.57,
+    "sha256": "a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85"
+  },
+  {
+    "file": "gemini-3.8-kore-take2.wav",
+    "seconds": 107.4,
+    "bytes": 5155244,
+    "sample_rate": "24000",
+    "channels": 1,
+    "integrated_lufs": -18.32,
+    "true_peak_dbtp": -0.15,
+    "listening_gain_db": -5.68,
+    "sha256": "6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2"
+  }
+]

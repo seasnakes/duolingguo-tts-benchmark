@@ -1,0 +1,237 @@
+[
+  {
+    "path": "gemini-3.8-kore-take2.wav",
+    "sha256": "6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2",
+    "size": 5155244,
+    "parts": [
+      "media-parts/6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2/000.bin",
+      "media-parts/6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2/001.bin",
+      "media-parts/6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2/002.bin",
+      "media-parts/6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2/003.bin",
+      "media-parts/6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2/004.bin"
+    ]
+  },
+  {
+    "path": "gemini-3.8-kore-take1.wav",
+    "sha256": "a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85",
+    "size": 5101484,
+    "parts": [
+      "media-parts/a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85/000.bin",
+      "media-parts/a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85/001.bin",
+      "media-parts/a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85/002.bin",
+      "media-parts/a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85/003.bin",
+      "media-parts/a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85/004.bin"
+    ]
+  },
+  {
+    "path": "source.mp4",
+    "sha256": "681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590",
+    "size": 13187106,
+    "parts": [
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/000.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/001.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/002.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/003.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/004.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/005.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/006.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/007.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/008.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/009.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/010.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/011.bin",
+      "media-parts/681fcd8af425ae3ae5f9c1216e9bbf0008e3eee1e131410882b3624a98668590/012.bin"
+    ]
+  },
+  {
+    "path": "minimax-2.8-office-auto.mp3",
+    "sha256": "1ef884f104803587faf58921a83ad58da0e2a635af5e11a2bae3de5b3fd5a6cc",
+    "size": 2654502,
+    "parts": [
+      "media-parts/1ef884f104803587faf58921a83ad58da0e2a635af5e11a2bae3de5b3fd5a6cc/000.bin",
+      "media-parts/1ef884f104803587faf58921a83ad58da0e2a635af5e11a2bae3de5b3fd5a6cc/001.bin",
+      "media-parts/1ef884f104803587faf58921a83ad58da0e2a635af5e11a2bae3de5b3fd5a6cc/002.bin"
+    ]
+  },
+  {
+    "path": "minimax-2.8-office-french-detected.mp3",
+    "sha256": "0878278dd1ac6249065b4feeac6212fd764ec334b10f983631017a7f624d45a5",
+    "size": 3175279,
+    "parts": [
+      "media-parts/0878278dd1ac6249065b4feeac6212fd764ec334b10f983631017a7f624d45a5/000.bin",
+      "media-parts/0878278dd1ac6249065b4feeac6212fd764ec334b10f983631017a7f624d45a5/001.bin",
+      "media-parts/0878278dd1ac6249065b4feeac6212fd764ec334b10f983631017a7f624d45a5/002.bin",
+      "media-parts/0878278dd1ac6249065b4feeac6212fd764ec334b10f983631017a7f624d45a5/003.bin"
+    ]
+  },
+  {
+    "path": "listening/gemini-3.8-kore-take2.wav",
+    "sha256": "883d755793bb1e8225bbaaadb21fabe6f8af5610f0a0827af5c6120366526b16",
+    "size": 5155278,
+    "parts": [
+      "media-parts/883d755793bb1e8225bbaaadb21fabe6f8af5610f0a0827af5c6120366526b16/000.bin",
+      "media-parts/883d755793bb1e8225bbaaadb21fabe6f8af5610f0a0827af5c6120366526b16/001.bin",
+      "media-parts/883d755793bb1e8225bbaaadb21fabe6f8af5610f0a0827af5c6120366526b16/002.bin",
+      "media-parts/883d755793bb1e8225bbaaadb21fabe6f8af5610f0a0827af5c6120366526b16/003.bin",
+      "media-parts/883d755793bb1e8225bbaaadb21fabe6f8af5610f0a0827af5c6120366526b16/004.bin"
+    ]
+  },
+  {
+    "path": "listening/gemini-3.8-kore-take1.wav",
+    "sha256": "cc41cccf0acead483303e04517af5aa58f43adc0abbe36621810fb531c8abd64",
+    "size": 5101518,
+    "parts": [
+      "media-parts/cc41cccf0acead483303e04517af5aa58f43adc0abbe36621810fb531c8abd64/000.bin",
+      "media-parts/cc41cccf0acead483303e04517af5aa58f43adc0abbe36621810fb531c8abd64/001.bin",
+      "media-parts/cc41cccf0acead483303e04517af5aa58f43adc0abbe36621810fb531c8abd64/002.bin",
+      "media-parts/cc41cccf0acead483303e04517af5aa58f43adc0abbe36621810fb531c8abd64/003.bin",
+      "media-parts/cc41cccf0acead483303e04517af5aa58f43adc0abbe36621810fb531c8abd64/004.bin"
+    ]
+  },
+  {
+    "path": "listening/eleven-v4-helen-take1.mp3",
+    "sha256": "32718cea4d700eb324a17efdc7acf533ecc0901be42b1e9284a6e4d72a3b5478",
+    "size": 2626916,
+    "parts": [
+      "media-parts/32718cea4d700eb324a17efdc7acf533ecc0901be42b1e9284a6e4d72a3b5478/000.bin",
+      "media-parts/32718cea4d700eb324a17efdc7acf533ecc0901be42b1e9284a6e4d72a3b5478/001.bin",
+      "media-parts/32718cea4d700eb324a17efdc7acf533ecc0901be42b1e9284a6e4d72a3b5478/002.bin"
+    ]
+  },
+  {
+    "path": "listening/minimax-2.8-office-auto-take2.mp3",
+    "sha256": "ae470268589a5ddf5c91154f3f16192c8a61efaf858bcc75694c7e00919dd302",
+    "size": 3315922,
+    "parts": [
+      "media-parts/ae470268589a5ddf5c91154f3f16192c8a61efaf858bcc75694c7e00919dd302/000.bin",
+      "media-parts/ae470268589a5ddf5c91154f3f16192c8a61efaf858bcc75694c7e00919dd302/001.bin",
+      "media-parts/ae470268589a5ddf5c91154f3f16192c8a61efaf858bcc75694c7e00919dd302/002.bin",
+      "media-parts/ae470268589a5ddf5c91154f3f16192c8a61efaf858bcc75694c7e00919dd302/003.bin"
+    ]
+  },
+  {
+    "path": "listening/eleven-v4-five-roles.mp3",
+    "sha256": "ed0931fe1c2ceb65a9e69c2c47f29fa0c7793a3a6fb8c39b42448b30cb8142ec",
+    "size": 3085940,
+    "parts": [
+      "media-parts/ed0931fe1c2ceb65a9e69c2c47f29fa0c7793a3a6fb8c39b42448b30cb8142ec/000.bin",
+      "media-parts/ed0931fe1c2ceb65a9e69c2c47f29fa0c7793a3a6fb8c39b42448b30cb8142ec/001.bin",
+      "media-parts/ed0931fe1c2ceb65a9e69c2c47f29fa0c7793a3a6fb8c39b42448b30cb8142ec/002.bin"
+    ]
+  },
+  {
+    "path": "listening/minimax-2.8-office-auto.mp3",
+    "sha256": "c50bedcb8b9f84f557ed53638d71156c96c5d147231afc319ca2655c0d87242f",
+    "size": 3981731,
+    "parts": [
+      "media-parts/c50bedcb8b9f84f557ed53638d71156c96c5d147231afc319ca2655c0d87242f/000.bin",
+      "media-parts/c50bedcb8b9f84f557ed53638d71156c96c5d147231afc319ca2655c0d87242f/001.bin",
+      "media-parts/c50bedcb8b9f84f557ed53638d71156c96c5d147231afc319ca2655c0d87242f/002.bin",
+      "media-parts/c50bedcb8b9f84f557ed53638d71156c96c5d147231afc319ca2655c0d87242f/003.bin"
+    ]
+  },
+  {
+    "path": "listening/minimax-2.8-office-french-detected.mp3",
+    "sha256": "5af60f8cb7eeb0edf973ff09cab6d95fce0c78757e930e68a68aace5b62b5701",
+    "size": 4762896,
+    "parts": [
+      "media-parts/5af60f8cb7eeb0edf973ff09cab6d95fce0c78757e930e68a68aace5b62b5701/000.bin",
+      "media-parts/5af60f8cb7eeb0edf973ff09cab6d95fce0c78757e930e68a68aace5b62b5701/001.bin",
+      "media-parts/5af60f8cb7eeb0edf973ff09cab6d95fce0c78757e930e68a68aace5b62b5701/002.bin",
+      "media-parts/5af60f8cb7eeb0edf973ff09cab6d95fce0c78757e930e68a68aace5b62b5701/003.bin",
+      "media-parts/5af60f8cb7eeb0edf973ff09cab6d95fce0c78757e930e68a68aace5b62b5701/004.bin"
+    ]
+  },
+  {
+    "path": "bgm/eleven-v4-helen-take1.mp3",
+    "sha256": "c53034913e67de686a3ffb84fa6c6f7ee4befc0f8d774bad59e153dbe5768d6b",
+    "size": 2627180,
+    "parts": [
+      "media-parts/c53034913e67de686a3ffb84fa6c6f7ee4befc0f8d774bad59e153dbe5768d6b/000.bin",
+      "media-parts/c53034913e67de686a3ffb84fa6c6f7ee4befc0f8d774bad59e153dbe5768d6b/001.bin",
+      "media-parts/c53034913e67de686a3ffb84fa6c6f7ee4befc0f8d774bad59e153dbe5768d6b/002.bin"
+    ]
+  },
+  {
+    "path": "bgm/eleven-v4-helen-take2.mp3",
+    "sha256": "9d63720505be3c51d0a474ba765444857cf9cbaf66c1abe3408b1cd99276cc79",
+    "size": 2398508,
+    "parts": [
+      "media-parts/9d63720505be3c51d0a474ba765444857cf9cbaf66c1abe3408b1cd99276cc79/000.bin",
+      "media-parts/9d63720505be3c51d0a474ba765444857cf9cbaf66c1abe3408b1cd99276cc79/001.bin",
+      "media-parts/9d63720505be3c51d0a474ba765444857cf9cbaf66c1abe3408b1cd99276cc79/002.bin"
+    ]
+  },
+  {
+    "path": "bgm/original-background.mp3",
+    "sha256": "4dc53ab1de1e0f8a7927059d1cf818797aa533c624199dec7e6fa94a9a28080a",
+    "size": 2646837,
+    "parts": [
+      "media-parts/4dc53ab1de1e0f8a7927059d1cf818797aa533c624199dec7e6fa94a9a28080a/000.bin",
+      "media-parts/4dc53ab1de1e0f8a7927059d1cf818797aa533c624199dec7e6fa94a9a28080a/001.bin",
+      "media-parts/4dc53ab1de1e0f8a7927059d1cf818797aa533c624199dec7e6fa94a9a28080a/002.bin"
+    ]
+  },
+  {
+    "path": "bgm/minimax-2.8-office-auto-take2.mp3",
+    "sha256": "f3b2ab195e136b0c030987c1bb4c65cfac0a99266399ee0dae87556af09eb2c6",
+    "size": 3315500,
+    "parts": [
+      "media-parts/f3b2ab195e136b0c030987c1bb4c65cfac0a99266399ee0dae87556af09eb2c6/000.bin",
+      "media-parts/f3b2ab195e136b0c030987c1bb4c65cfac0a99266399ee0dae87556af09eb2c6/001.bin",
+      "media-parts/f3b2ab195e136b0c030987c1bb4c65cfac0a99266399ee0dae87556af09eb2c6/002.bin",
+      "media-parts/f3b2ab195e136b0c030987c1bb4c65cfac0a99266399ee0dae87556af09eb2c6/003.bin"
+    ]
+  },
+  {
+    "path": "bgm/eleven-v4-five-roles.mp3",
+    "sha256": "0f9b76c5e4c328a13afe5ff331daed277905b7e428b2d28fa1958f7facd2ecee",
+    "size": 3085781,
+    "parts": [
+      "media-parts/0f9b76c5e4c328a13afe5ff331daed277905b7e428b2d28fa1958f7facd2ecee/000.bin",
+      "media-parts/0f9b76c5e4c328a13afe5ff331daed277905b7e428b2d28fa1958f7facd2ecee/001.bin",
+      "media-parts/0f9b76c5e4c328a13afe5ff331daed277905b7e428b2d28fa1958f7facd2ecee/002.bin"
+    ]
+  },
+  {
+    "path": "bgm/gemini-3.8-kore-take2.mp3",
+    "sha256": "2597c9edc7db3281376930e0620138bda04827ef0d71ccee6c721fe49a7bacfa",
+    "size": 2578796,
+    "parts": [
+      "media-parts/2597c9edc7db3281376930e0620138bda04827ef0d71ccee6c721fe49a7bacfa/000.bin",
+      "media-parts/2597c9edc7db3281376930e0620138bda04827ef0d71ccee6c721fe49a7bacfa/001.bin",
+      "media-parts/2597c9edc7db3281376930e0620138bda04827ef0d71ccee6c721fe49a7bacfa/002.bin"
+    ]
+  },
+  {
+    "path": "bgm/minimax-2.8-office-auto.mp3",
+    "sha256": "d7e831a2d47e525ec9c644e4198b79fae17c41d5fa9f1a2ff605a8d9eeaa92a0",
+    "size": 3981356,
+    "parts": [
+      "media-parts/d7e831a2d47e525ec9c644e4198b79fae17c41d5fa9f1a2ff605a8d9eeaa92a0/000.bin",
+      "media-parts/d7e831a2d47e525ec9c644e4198b79fae17c41d5fa9f1a2ff605a8d9eeaa92a0/001.bin",
+      "media-parts/d7e831a2d47e525ec9c644e4198b79fae17c41d5fa9f1a2ff605a8d9eeaa92a0/002.bin",
+      "media-parts/d7e831a2d47e525ec9c644e4198b79fae17c41d5fa9f1a2ff605a8d9eeaa92a0/003.bin"
+    ]
+  },
+  {
+    "path": "bgm/gemini-3.8-kore-take1.mp3",
+    "sha256": "b5f8fde5af95140d86a5679bf633312c6c36ff1803541f019dee834a18d6d9c4",
+    "size": 2552300,
+    "parts": [
+      "media-parts/b5f8fde5af95140d86a5679bf633312c6c36ff1803541f019dee834a18d6d9c4/000.bin",
+      "media-parts/b5f8fde5af95140d86a5679bf633312c6c36ff1803541f019dee834a18d6d9c4/001.bin",
+      "media-parts/b5f8fde5af95140d86a5679bf633312c6c36ff1803541f019dee834a18d6d9c4/002.bin"
+    ]
+  },
+  {
+    "path": "多玲国-分角色情绪稿/生成音频/五角色-情绪版.mp3",
+    "sha256": "70916fb7fea23f51cc852aa1a4c3eda26b610f0f2d8c357a13fc6c1c94a9b87a",
+    "size": 3085941,
+    "parts": [
+      "media-parts/70916fb7fea23f51cc852aa1a4c3eda26b610f0f2d8c357a13fc6c1c94a9b87a/000.bin",
+      "media-parts/70916fb7fea23f51cc852aa1a4c3eda26b610f0f2d8c357a13fc6c1c94a9b87a/001.bin",
+      "media-parts/70916fb7fea23f51cc852aa1a4c3eda26b610f0f2d8c357a13fc6c1c94a9b87a/002.bin"
+    ]
+  }
+]

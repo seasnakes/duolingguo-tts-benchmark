@@ -1,0 +1,24 @@
+[
+  {
+    "file": "gemini-3.8-kore-take1.wav",
+    "seconds": 106.28,
+    "bytes": 5101484,
+    "sample_rate": "24000",
+    "channels": 1,
+    "integrated_lufs": -17.43,
+    "true_peak_dbtp": -0.61,
+    "listening_gain_db": -6.57,
+    "sha256": "a6999c721f8f280953acd1cf072bb7edf58f52820521a822a604020d0c4ebc85"
+  },
+  {
+    "file": "gemini-3.8-kore-take2.wav",
+    "seconds": 107.4,
+    "bytes": 5155244,
+    "sample_rate": "24000",
+    "channels": 1,
+    "integrated_lufs": -18.32,
+    "true_peak_dbtp": -0.15,
+    "listening_gain_db": -5.68,
+    "sha256": "6ce1ddcc23cb7b9e437c01aba6ed04c23f2a401323c3810e37a35041d57735c2"
+  }
+]
