@@ -7,6 +7,7 @@ on:
     - cron: '17 */6 * * *'
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 concurrency:
@@ -31,8 +32,15 @@ jobs:
         run: python3 refresh_feishu_media.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        id: upload
         with:
           path: site
+      - name: Wait for uploaded Pages artifact
+        timeout-minutes: 6
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PAGES_ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
+        run: python3 scripts/wait_pages_artifact.py
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5
